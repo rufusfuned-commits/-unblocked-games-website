@@ -1,0 +1,180 @@
+{
+    "abdullag": {
+        "password": "aman",
+        "display_name": "abdullah",
+        "updated_at": "2026-05-22 13:08:43",
+        "permissions": {
+            "send_images": false,
+            "send_popups": false,
+            "delete_messages": false,
+            "access_admin": false
+        }
+    },
+    "aman": {
+        "password": "grey",
+        "display_name": "Aman",
+        "permissions": {
+            "send_images": false,
+            "send_popups": false,
+            "delete_messages": false,
+            "access_admin": false
+        },
+        "updated_at": "2026-06-05 11:40:33"
+    },
+    "ArtShe": {
+        "password": "food",
+        "display_name": "amna",
+        "permissions": {
+            "send_images": false,
+            "send_popups": false,
+            "delete_messages": false,
+            "access_admin": false
+        }
+    },
+    "baldy": {
+        "password": "tech",
+        "display_name": "aman",
+        "permissions": {
+            "send_images": false,
+            "send_popups": false,
+            "delete_messages": false,
+            "access_admin": false
+        }
+    },
+    "bman": {
+        "password": "gym",
+        "display_name": "Bman",
+        "updated_at": "2026-06-02 12:03:39",
+        "permissions": {
+            "send_images": false,
+            "send_popups": false,
+            "delete_messages": false,
+            "access_admin": false
+        }
+    },
+    "cman": {
+        "password": "vrman",
+        "display_name": "Cater",
+        "updated_at": "2026-05-22 13:09:32",
+        "permissions": {
+            "send_images": false,
+            "send_popups": false,
+            "delete_messages": false,
+            "access_admin": false
+        }
+    },
+    "eli": {
+        "password": "iceman",
+        "display_name": "eman",
+        "permissions": {
+            "send_images": false,
+            "send_popups": false,
+            "delete_messages": false,
+            "access_admin": false
+        }
+    },
+    "eman": {
+        "password": "zumzum",
+        "display_name": "Eman",
+        "permissions": {
+            "send_images": true,
+            "send_popups": true,
+            "delete_messages": false,
+            "access_admin": false
+        },
+        "updated_at": "2026-06-04 10:44:37"
+    },
+    "example": {
+        "password": "example",
+        "display_name": "example",
+        "permissions": {
+            "send_images": false,
+            "send_popups": false,
+            "delete_messages": false,
+            "access_admin": false
+        }
+    },
+    "iman": {
+        "password": "13901390",
+        "display_name": "iman",
+        "updated_at": "2026-05-22 13:11:15",
+        "permissions": {
+            "send_images": false,
+            "send_popups": false,
+            "delete_messages": false,
+            "access_admin": false
+        }
+    },
+    "jman": {
+        "password": "glasses",
+        "display_name": "josh",
+        "permissions": {
+            "send_images": true,
+            "send_popups": false,
+            "delete_messages": false,
+            "access_admin": false
+        },
+        "updated_at": "2026-06-04 10:44:22"
+    },
+    "mo": {
+        "password": "moman",
+        "display_name": "mo",
+        "permissions": {
+            "send_images": false,
+            "send_popups": false,
+            "delete_messages": false,
+            "access_admin": false
+        }
+    },
+    "nman": {
+        "password": "rain",
+        "display_name": "nman",
+        "permissions": {
+            "send_images": false,
+            "send_popups": false,
+            "delete_messages": false,
+            "access_admin": false
+        }
+    },
+    "rufus": {
+        "password": "sheffield",
+        "display_name": "rufus",
+        "permissions": {
+            "send_images": true,
+            "send_popups": true,
+            "delete_messages": true,
+            "access_admin": true
+        }
+    },
+    "smellis": {
+        "password": "rizz",
+        "display_name": "eman",
+        "permissions": {
+            "send_images": false,
+            "send_popups": false,
+            "delete_messages": false,
+            "access_admin": false
+        }
+    },
+    "test": {
+        "password": "test",
+        "display_name": "Test",
+        "permissions": {
+            "send_images": false,
+            "send_popups": true,
+            "delete_messages": false,
+            "access_admin": false
+        },
+        "updated_at": "2026-06-02 22:19:45"
+    },
+    "yman": {
+        "password": "girl",
+        "display_name": "yman",
+        "permissions": {
+            "send_images": false,
+            "send_popups": false,
+            "delete_messages": false,
+            "access_admin": false
+        }
+    }
+}

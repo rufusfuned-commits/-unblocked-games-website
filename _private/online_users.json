@@ -1,0 +1,14 @@
+{
+    "alice": {
+        "name": "Alice",
+        "last_seen": 1781982812
+    },
+    "bob": {
+        "name": "Bob",
+        "last_seen": 1781982512
+    },
+    "rufus": {
+        "name": "rufus",
+        "last_seen": 1783026839
+    }
+}

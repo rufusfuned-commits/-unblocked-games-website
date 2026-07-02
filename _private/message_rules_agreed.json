@@ -1,0 +1,72 @@
+{
+    "rufus": {
+        "name": "rufus",
+        "agreed_at": "2026-05-15 19:54:56",
+        "agreed_at_timestamp": 1778871296
+    },
+    "rufrufrufus": {
+        "name": "rufrufrufus",
+        "agreed_at": "2026-05-15 20:11:39",
+        "agreed_at_timestamp": 1778872299
+    },
+    "example": {
+        "name": "example",
+        "agreed_at": "2026-05-18 13:21:12",
+        "agreed_at_timestamp": 1779106872
+    },
+    "eman": {
+        "name": "eman",
+        "agreed_at": "2026-05-19 09:59:08",
+        "agreed_at_timestamp": 1779181148
+    },
+    "cman": {
+        "name": "cman",
+        "agreed_at": "2026-05-19 10:58:29",
+        "agreed_at_timestamp": 1779184709
+    },
+    "mo": {
+        "name": "mo",
+        "agreed_at": "2026-05-19 11:45:29",
+        "agreed_at_timestamp": 1779187529
+    },
+    "aman": {
+        "name": "aman",
+        "agreed_at": "2026-05-19 14:12:06",
+        "agreed_at_timestamp": 1779196326
+    },
+    "jman": {
+        "name": "jman",
+        "agreed_at": "2026-05-19 14:23:54",
+        "agreed_at_timestamp": 1779197034
+    },
+    "amna": {
+        "name": "amna",
+        "agreed_at": "2026-05-20 09:51:49",
+        "agreed_at_timestamp": 1779267109
+    },
+    "nman": {
+        "name": "nman",
+        "agreed_at": "2026-05-22 13:43:31",
+        "agreed_at_timestamp": 1779453811
+    },
+    "sman": {
+        "name": "Sman",
+        "agreed_at": "2026-06-01 08:52:20",
+        "agreed_at_timestamp": 1780300340
+    },
+    "test": {
+        "name": "Test",
+        "agreed_at": "2026-06-02 22:22:42",
+        "agreed_at_timestamp": 1780435362
+    },
+    "cater": {
+        "name": "Cater",
+        "agreed_at": "2026-06-03 12:57:47",
+        "agreed_at_timestamp": 1780487867
+    },
+    "josh": {
+        "name": "josh",
+        "agreed_at": "2026-06-04 12:08:36",
+        "agreed_at_timestamp": 1780571316
+    }
+}
