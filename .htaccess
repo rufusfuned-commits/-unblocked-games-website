@@ -1,0 +1,14 @@
+# Lunaach .htaccess — InfinityFree-safe
+# Minimal: only cache headers wrapped in IfModule guards.
+# If any directive causes a 500, the IfModule guard prevents the crash.
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/png "access plus 2592000 seconds"
+  ExpiresByType image/jpeg "access plus 2592000 seconds"
+  ExpiresByType image/webp "access plus 2592000 seconds"
+  ExpiresByType image/gif "access plus 2592000 seconds"
+  ExpiresByType image/x-icon "access plus 2592000 seconds"
+  ExpiresByType text/css "access plus 604800 seconds"
+  ExpiresByType application/javascript "access plus 604800 seconds"
+</IfModule>
